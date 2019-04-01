@@ -1,3 +1,1 @@
-# lastcryptohack
-
-test
+Coming soon
